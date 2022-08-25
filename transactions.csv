@@ -1,0 +1,5 @@
+TransactionID,TransactionType,Amount,UserFullName,UserEmail,UserID
+1,Deposit,100.00 SDG,Monzer Mahmoud,Monzer@Mahmoud.com,1
+2,Transfer,150.00 SDG,Mubsher Mahmoud,Mubsher@Mahmoud.com,2
+3,Deposit,2000.00 SDG,Mubsher Mahmoud,Mubsher@Mahmoud.com,2
+4,Netflix Gift Card,1500.00 SDG,Monzer Mahmoud,Monzer@Mahmoud.com,1
